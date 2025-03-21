@@ -1,4 +1,4 @@
-```markdown
+
 # 🌧️ SUMO Traffic Simulation with Rain-Adaptive Pedestrian Priority
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
