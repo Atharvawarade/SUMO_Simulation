@@ -1,0 +1,10 @@
+<configuration>
+    <input>
+        <net-file value="trafalgar.net.xml"/>
+        <route-files value="pedestrians.rou.xml,vehicles.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+</configuration>
